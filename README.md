@@ -23,7 +23,8 @@ This is my first Forge app, built as part of the **Forge Quest** challenge by At
 
 ## 📸 Screenshot
 
-![screenshot](path/to/screenshot.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bd57b5f-e559-49ad-a61a-845ce6f4c7d8" />
+
 
 > Replace with actual path if adding the screenshot to your repo.
 
@@ -62,5 +63,4 @@ Supreet Kaur
 Project submitted to: Forge Quest: Bonus Level
 
 
-App Screen_Shot:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2f4b26c-534e-4a8a-b5d4-894f0abac173" />
+
