@@ -1,0 +1,20 @@
+modules:
+  jira:projectPage:
+    - key: forge-quest-hello-world-project-page
+      resource: main
+      resolver:
+        function: resolver
+      render: native
+      title: Supreet's first quest
+  function:
+    - key: resolver
+      handler: index.handler
+resources:
+  - key: main
+    path: src/frontend/index.jsx
+app:
+  runtime:
+    name: nodejs22.x
+    memoryMB: 256
+    architecture: arm64
+  id: ari:cloud:ecosystem::app/dd4ca118-5adc-4afe-b767-8d7da8b5eea7
